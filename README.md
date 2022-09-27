@@ -23,3 +23,7 @@ set enableAnyLocker 1
 
 # NOTE
 I will release source at some point, got quite a lot of bugs to fix and my code is a bit messy
+
+Discord if needed:
+
+Atmoist🖤⚡💛#7178
