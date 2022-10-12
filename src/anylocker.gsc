@@ -4,6 +4,17 @@
 #include maps\mp\zombies\_zm_weapons;
 #include maps\mp\zombies\_zm;
 
+/*
+Original Code made by Atmoist
+For use with Plutonium T6
+Requirements:
+    - https://github.com/fedddddd/t6-gsc-utils
+WIP for learning GSC etc, sorry if it's not optimised/programmed the best :)
+*/
+
+
+
+
 init()
 {
     
